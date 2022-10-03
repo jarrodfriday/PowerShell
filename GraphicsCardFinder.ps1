@@ -3,7 +3,7 @@
         Query all Graphics Drivers & Processors on an Asset and returns key details. 
         .DESCRIPTION
         
-        This script queries a system for key details.
+        This script queries a system for key details. lol
         
             - For Graphics Cards = The name of the video controller, the current driver version it is running and when it was installed.
             - For Processors = The name of the Processor, it's the manufacturer and a short description
